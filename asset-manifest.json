@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/esb-client/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/esb-client/static/js/main.b5854a11.chunk.js",
+    "main.js.map": "/esb-client/static/js/main.b5854a11.chunk.js.map",
+    "runtime-main.js": "/esb-client/static/js/runtime-main.0475225d.js",
+    "runtime-main.js.map": "/esb-client/static/js/runtime-main.0475225d.js.map",
+    "static/js/2.bd40bf2e.chunk.js": "/esb-client/static/js/2.bd40bf2e.chunk.js",
+    "static/js/2.bd40bf2e.chunk.js.map": "/esb-client/static/js/2.bd40bf2e.chunk.js.map",
+    "index.html": "/esb-client/index.html",
+    "precache-manifest.96e10a820896af9f89ff163da6cc17e5.js": "/esb-client/precache-manifest.96e10a820896af9f89ff163da6cc17e5.js",
+    "service-worker.js": "/esb-client/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/esb-client/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.bd40bf2e.chunk.js.LICENSE.txt": "/esb-client/static/js/2.bd40bf2e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0475225d.js",
+    "static/js/2.bd40bf2e.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.b5854a11.chunk.js"
+  ]
+}
